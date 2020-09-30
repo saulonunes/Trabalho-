@@ -1,4 +1,4 @@
-# Caixa de Supermercado-
+# Caixa de Supermercado
 Nosso trabalho será um simulador de caixa de supermercado, onde planejamos criar um programa que não somente realize vendas, mas também consiga cadastrar um produto e fazer alterações a respeito do mesmo.
 
 Esperamos conseguir adicionar mais elementos e fuções conseguindo deixar o programa o mais completo possível.
