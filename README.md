@@ -7,6 +7,7 @@ O material que pretendemos nos basear para a confecção do programa é o que es
 Segue em anexo o link do video citado acima:
 
 https://www.youtube.com/watch?v=RL6wJx5a5M8&feature=youtu.be&ab_channel=LucasViana
+
 |Nome do campo|tipo| Descrição|
 |-------------|----|----------|
 |cadastrar | inteiro  |Constará no menu de opçoes e fará o cadastro de um novo produto|
@@ -20,3 +21,11 @@ https://www.youtube.com/watch?v=RL6wJx5a5M8&feature=youtu.be&ab_channel=LucasVia
 |quantidade|Inteiro|Quantidade de produtos|
 |preco|Real|Valor do produto|
 |caixaAtual|Real|Valor disponivel no caixa|
+
+##  Grupo:
+
+ADRIELY AVELINO DE CASTRO
+
+EMERSON SOUZA DA SILVA
+
+SAULO FURTADO NUNES
