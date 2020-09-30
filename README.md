@@ -2,7 +2,7 @@
 Nosso trabalho será um simulador de caixa de supermercado, onde planejamos criar um programa que não somente realize vendas, mas também consiga cadastrar um produto e fazer alterações a respeito do mesmo.
 
 Esperamos conseguir adicionar mais elementos e fuções conseguindo deixar o programa o mais completo possível.
-O materia que pretendemos nos basear para a confecção do programa é o que está no link logo abaixo, por ser muito complexo iremos tentar fazer um mais simplificado equiparando com o que a disciplina de CMA02 (LABORATÓRIO DE PROGRAMAÇÃO DE COMPUTADORES ) nos dá de informações a respeito de programção.
+O material que pretendemos nos basear para a confecção do programa é o que está no link logo abaixo, por ser muito complexo iremos tentar fazer um mais simplificado equiparando com o que a disciplina de CMA02 (LABORATÓRIO DE PROGRAMAÇÃO DE COMPUTADORES ) nos dá de informações a respeito de programção.
 
 Segue em anexo o link do video citado acima:
 
